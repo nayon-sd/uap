@@ -1,0 +1,100 @@
+#team-member h2::after{
+    content: "";
+    display: block;
+    height: 2px;
+    background: #E76F51;
+    width: 50px;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 40px; 
+}
+#accordion h2#accor::after{
+    content: "";
+    display: block;
+    height: 2px;
+    background: #E76F51;
+    width: 250px;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 40px;
+}
+#accordion h2#accor::before{
+    content: "";
+    display: block;
+    height: 2px;
+    background: #E76F51;
+    width: 250px;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+#recent-work h2::after{
+    content: "";
+    display: block;
+    height: 2px;
+    background: #E76F51;
+    width: 50px;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 40px;
+}
+#recent-post h2::after{
+    content: "";
+    display: block;
+    height: 2px;
+    background: #E76F51;
+    width: 50px;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 40px; 
+}
+/* contact-section-style */
+#contact h2::after{
+    content: "";
+    display: block;
+    height: 2px;
+    background: #E76F51;
+    width: 50px;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 40px;
+}
+
+#contact h2{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+/* footer-section-style */
+#footer{
+    background-color: black;
+}
+#footer a{
+    color: white;
+}
+#footer small#copyright{
+    margin-top: 10px;
+    color: white;
+}
+#footer .item-margin{
+    margin-top: 60px;
+}
+#footer .row{
+    margin-bottom: 0;
+}
+.social-icon{
+    font-size: 20px;
+    color: white;
+    margin-right: 15px;
+    margin-top: 15px;
+    margin-bottom: 50px;
+}
+
+
+
+
+
+
+
+
+
